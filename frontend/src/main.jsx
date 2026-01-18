@@ -6,7 +6,7 @@ import { ClerkProvider } from '@clerk/clerk-react';
 import { BrowserRouter } from 'react-router-dom';
 import './i18n'; // Initialize i18n
 
-const PUBLISHABLE_KEY = "pk_test_dXNhYmxlLWFyYWNobmlkLTI1LmNsZXJrLmFjY291bnRzLmRldiQ"; // Placeholder
+const PUBLISHABLE_KEY = ""; // Placeholder
 
 if (!PUBLISHABLE_KEY) {
   throw new Error("Missing Publishable Key")
