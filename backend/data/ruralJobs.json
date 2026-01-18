@@ -1,0 +1,860 @@
+[
+  {
+    "title": "Agricultural Extension Officer",
+    "company": "State Agriculture Department",
+    "location": "Village: Khandwa",
+    "district": "Khandwa",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 3,
+      "max": 6,
+      "currency": "INR"
+    },
+    "salaryRange": "₹3L - ₹6L",
+    "category": "Rural",
+    "tags": ["Agriculture", "Extension", "Rural Development", "Field Work"],
+    "description": "Work with farmers to improve agricultural practices, provide technical guidance, and implement government schemes.",
+    "requirements": ["12th Pass", "Diploma in Agriculture preferred", "Good communication skills", "Willingness to travel"],
+    "skills": ["Communication", "Agricultural Knowledge", "Field Work", "Problem Solving"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Khandwa",
+      "block": "Khandwa Block",
+      "panchayat": "Khandwa Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Primary School Teacher",
+    "company": "Government Primary School",
+    "location": "Village: Barwani",
+    "district": "Barwani",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5L",
+    "category": "Rural",
+    "tags": ["Teaching", "Education", "Rural", "Social Work"],
+    "description": "Teach primary school students (Classes 1-5) in rural government schools, shaping young minds.",
+    "requirements": ["12th Pass", "D.Ed or B.Ed preferred", "Patience", "Love for children"],
+    "skills": ["Teaching", "Communication", "Patience", "Subject Knowledge"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Barwani",
+      "block": "Barwani Block",
+      "panchayat": "Barwani Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Village Health Worker (ASHA)",
+    "company": "National Health Mission",
+    "location": "Village: Khargone",
+    "district": "Khargone",
+    "state": "Madhya Pradesh",
+    "type": "Part-time",
+    "salary": {
+      "min": 1.5,
+      "max": 3,
+      "currency": "INR"
+    },
+    "salaryRange": "₹1.5L - ₹3L",
+    "category": "Rural",
+    "tags": ["Healthcare", "Community Health", "Rural", "Social Service"],
+    "description": "Provide basic healthcare services, maternal and child health support, and health awareness in rural communities.",
+    "requirements": ["10th Pass", "Local resident preferred", "Basic health knowledge", "Compassion"],
+    "skills": ["Healthcare", "Communication", "Community Engagement", "Basic Medical Knowledge"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Khargone",
+      "block": "Khargone Block",
+      "panchayat": "Khargone Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Bank Clerk",
+    "company": "Regional Rural Bank",
+    "location": "Village: Dhar",
+    "district": "Dhar",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5L",
+    "category": "Rural",
+    "tags": ["Banking", "Finance", "Rural", "Customer Service"],
+    "description": "Handle banking operations, customer service, and financial transactions in rural bank branches.",
+    "requirements": ["12th Pass", "Basic computer knowledge", "Numerical ability", "Customer service skills"],
+    "skills": ["Banking", "Customer Service", "Computer Skills", "Numerical Ability"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Dhar",
+      "block": "Dhar Block",
+      "panchayat": "Dhar Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Panchayat Secretary",
+    "company": "Gram Panchayat",
+    "location": "Village: Indore Rural",
+    "district": "Indore",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4.5L",
+    "category": "Rural",
+    "tags": ["Administration", "Government", "Rural Development", "Public Service"],
+    "description": "Manage panchayat administration, maintain records, coordinate development works, and assist villagers.",
+    "requirements": ["12th Pass", "Basic computer knowledge", "Administrative skills", "Local language proficiency"],
+    "skills": ["Administration", "Record Keeping", "Computer Skills", "Communication"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Indore Rural",
+      "block": "Indore Block",
+      "panchayat": "Indore Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Dairy Farm Manager",
+    "company": "Local Dairy Cooperative",
+    "location": "Village: Ujjain Rural",
+    "district": "Ujjain",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5.5L",
+    "category": "Rural",
+    "tags": ["Agriculture", "Dairy", "Animal Husbandry", "Management"],
+    "description": "Manage daily operations of dairy farm, oversee milk production, animal care, and coordinate with farmers.",
+    "requirements": ["12th Pass", "Knowledge of animal husbandry", "Management skills", "Physical fitness"],
+    "skills": ["Animal Husbandry", "Management", "Operations", "Problem Solving"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Ujjain Rural",
+      "block": "Ujjain Block",
+      "panchayat": "Ujjain Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Electrician",
+    "company": "State Electricity Board",
+    "location": "Village: Ratlam",
+    "district": "Ratlam",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4.5L",
+    "category": "Rural",
+    "tags": ["Technical", "Electrical", "Skill-Based", "Field Work"],
+    "description": "Install, maintain, and repair electrical systems in rural areas, ensure power supply, and handle electrical issues.",
+    "requirements": ["10th Pass", "ITI in Electrical", "Technical skills", "Safety awareness"],
+    "skills": ["Electrical Work", "Technical Skills", "Problem Solving", "Safety"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Ratlam",
+      "block": "Ratlam Block",
+      "panchayat": "Ratlam Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Anganwadi Worker",
+    "company": "Integrated Child Development Services",
+    "location": "Village: Mandsaur",
+    "district": "Mandsaur",
+    "state": "Madhya Pradesh",
+    "type": "Part-time",
+    "salary": {
+      "min": 1.2,
+      "max": 2.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹1.2L - ₹2.5L",
+    "category": "Rural",
+    "tags": ["Childcare", "Nutrition", "Education", "Social Work"],
+    "description": "Provide nutrition, health, and early education services to children and pregnant women in rural areas.",
+    "requirements": ["10th Pass", "Local resident", "Love for children", "Basic health knowledge"],
+    "skills": ["Childcare", "Nutrition", "Communication", "Record Keeping"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Mandsaur",
+      "block": "Mandsaur Block",
+      "panchayat": "Mandsaur Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Postman",
+    "company": "India Post",
+    "location": "Village: Neemuch",
+    "district": "Neemuch",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4L",
+    "category": "Rural",
+    "tags": ["Government", "Service", "Field Work", "Communication"],
+    "description": "Deliver mail, parcels, and postal services to rural areas, maintain postal records, and assist villagers.",
+    "requirements": ["10th Pass", "Physical fitness", "Knowledge of local area", "Honesty"],
+    "skills": ["Service", "Physical Fitness", "Area Knowledge", "Record Keeping"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Neemuch",
+      "block": "Neemuch Block",
+      "panchayat": "Neemuch Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Marketing Executive",
+    "company": "FMCG Company",
+    "location": "Village: Dewas",
+    "district": "Dewas",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5L",
+    "category": "Rural",
+    "tags": ["Marketing", "Sales", "Rural", "Communication"],
+    "description": "Promote and sell products in rural markets, build relationships with local retailers, and expand market reach.",
+    "requirements": ["12th Pass", "Sales skills", "Communication", "Travel willingness"],
+    "skills": ["Sales", "Marketing", "Communication", "Relationship Building"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Dewas",
+      "block": "Dewas Block",
+      "panchayat": "Dewas Panchayat",
+      "accessibility": "Requires travel"
+    }
+  },
+  {
+    "title": "Rural Handicraft Artisan",
+    "company": "Self-Employed / Cooperative",
+    "location": "Village: Gwalior Rural",
+    "district": "Gwalior",
+    "state": "Madhya Pradesh",
+    "type": "Freelance",
+    "salary": {
+      "min": 1.5,
+      "max": 4,
+      "currency": "INR"
+    },
+    "salaryRange": "₹1.5L - ₹4L",
+    "category": "Rural",
+    "tags": ["Handicraft", "Creative", "Artisan", "Skill-Based"],
+    "description": "Create traditional handicrafts, work with local materials, and sell products through cooperatives or direct sales.",
+    "requirements": ["Skill in handicraft", "Creativity", "Business sense", "Traditional knowledge"],
+    "skills": ["Handicraft", "Creativity", "Business", "Traditional Skills"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Gwalior Rural",
+      "block": "Gwalior Block",
+      "panchayat": "Gwalior Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Water Supply Operator",
+    "company": "Public Health Engineering Department",
+    "location": "Village: Bhopal Rural",
+    "district": "Bhopal",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5L",
+    "category": "Rural",
+    "tags": ["Technical", "Water Management", "Public Service", "Infrastructure"],
+    "description": "Operate and maintain water supply systems, ensure clean water availability, and handle water-related issues in rural areas.",
+    "requirements": ["12th Pass", "Technical knowledge", "Problem solving", "Physical work"],
+    "skills": ["Water Management", "Technical Skills", "Maintenance", "Problem Solving"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Bhopal Rural",
+      "block": "Bhopal Block",
+      "panchayat": "Bhopal Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Shopkeeper/General Store Owner",
+    "company": "Self-Employed",
+    "location": "Village: Sagar",
+    "district": "Sagar",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 1.5,
+      "max": 4,
+      "currency": "INR"
+    },
+    "salaryRange": "₹1.5L - ₹4L",
+    "category": "Rural",
+    "tags": ["Business", "Retail", "Entrepreneurship", "Skill-Based"],
+    "description": "Run a general store in rural area, provide daily necessities to villagers, and manage inventory and accounts.",
+    "requirements": ["Business sense", "Basic math", "Customer service", "Local knowledge"],
+    "skills": ["Business", "Customer Service", "Inventory Management", "Accounting"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Sagar",
+      "block": "Sagar Block",
+      "panchayat": "Sagar Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Mechanic (Tractor/Auto)",
+    "company": "Self-Employed / Service Center",
+    "location": "Village: Jabalpur Rural",
+    "district": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4.5L",
+    "category": "Rural",
+    "tags": ["Technical", "Mechanical", "Skill-Based", "Repair"],
+    "description": "Repair and maintain tractors, motorcycles, and other vehicles used in rural areas, provide mechanical services.",
+    "requirements": ["10th Pass", "ITI in Mechanical", "Technical skills", "Problem solving"],
+    "skills": ["Mechanical Repair", "Technical Skills", "Problem Solving", "Customer Service"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Jabalpur Rural",
+      "block": "Jabalpur Block",
+      "panchayat": "Jabalpur Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Tailor",
+    "company": "Self-Employed",
+    "location": "Village: Rewa",
+    "district": "Rewa",
+    "state": "Madhya Pradesh",
+    "type": "Freelance",
+    "salary": {
+      "min": 1.5,
+      "max": 3.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹1.5L - ₹3.5L",
+    "category": "Rural",
+    "tags": ["Tailoring", "Skill-Based", "Creative", "Service"],
+    "description": "Provide tailoring services to rural community, stitch clothes, alter garments, and create custom clothing.",
+    "requirements": ["Tailoring skills", "Creativity", "Customer service", "Attention to detail"],
+    "skills": ["Tailoring", "Sewing", "Design", "Customer Service"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Rewa",
+      "block": "Rewa Block",
+      "panchayat": "Rewa Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Carpenter",
+    "company": "Self-Employed / Construction",
+    "location": "Village: Satna",
+    "district": "Satna",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4.5L",
+    "category": "Rural",
+    "tags": ["Carpentry", "Construction", "Skill-Based", "Handicraft"],
+    "description": "Create wooden furniture, doors, windows, and other carpentry work for rural homes and construction projects.",
+    "requirements": ["Carpentry skills", "Physical fitness", "Creativity", "Precision"],
+    "skills": ["Carpentry", "Woodwork", "Design", "Construction"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Satna",
+      "block": "Satna Block",
+      "panchayat": "Satna Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Photographer",
+    "company": "Self-Employed",
+    "location": "Village: Chhindwara",
+    "district": "Chhindwara",
+    "state": "Madhya Pradesh",
+    "type": "Freelance",
+    "salary": {
+      "min": 1.5,
+      "max": 4,
+      "currency": "INR"
+    },
+    "salaryRange": "₹1.5L - ₹4L",
+    "category": "Rural",
+    "tags": ["Photography", "Creative", "Skill-Based", "Service"],
+    "description": "Provide photography services for weddings, events, and portraits in rural areas, capture important moments.",
+    "requirements": ["Photography skills", "Camera knowledge", "Creativity", "Customer service"],
+    "skills": ["Photography", "Editing", "Creativity", "Customer Service"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Chhindwara",
+      "block": "Chhindwara Block",
+      "panchayat": "Chhindwara Panchayat",
+      "accessibility": "Requires travel"
+    }
+  },
+  {
+    "title": "Rural Computer Operator",
+    "company": "Cyber Cafe / Government Office",
+    "location": "Village: Vidisha",
+    "district": "Vidisha",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4.5L",
+    "category": "Rural",
+    "tags": ["Computer", "Technology", "Skill-Based", "Data Entry"],
+    "description": "Operate computers, handle data entry, provide computer services, and assist villagers with digital services.",
+    "requirements": ["12th Pass", "Computer knowledge", "Typing skills", "Basic software"],
+    "skills": ["Computer Skills", "Typing", "Data Entry", "Software Knowledge"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Vidisha",
+      "block": "Vidisha Block",
+      "panchayat": "Vidisha Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Nurse (ANM)",
+    "company": "Primary Health Center",
+    "location": "Village: Sehore",
+    "district": "Sehore",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5L",
+    "category": "Rural",
+    "tags": ["Healthcare", "Nursing", "Medical", "Service"],
+    "description": "Provide nursing care, assist doctors, handle medical procedures, and support healthcare services in rural health centers.",
+    "requirements": ["12th Pass", "ANM Certificate", "Medical knowledge", "Compassion"],
+    "skills": ["Nursing", "Medical Care", "Communication", "Compassion"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Sehore",
+      "block": "Sehore Block",
+      "panchayat": "Sehore Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Driver (Bus/Taxi)",
+    "company": "Transport Service",
+    "location": "Village: Raisen",
+    "district": "Raisen",
+    "state": "Madhya Pradesh",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4L",
+    "category": "Rural",
+    "tags": ["Transport", "Driving", "Skill-Based", "Service"],
+    "description": "Drive buses, taxis, or private vehicles in rural areas, provide transportation services, and ensure passenger safety.",
+    "requirements": ["Valid driving license", "Good driving skills", "Safety awareness", "Area knowledge"],
+    "skills": ["Driving", "Safety", "Customer Service", "Area Knowledge"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Raisen",
+      "block": "Raisen Block",
+      "panchayat": "Raisen Panchayat",
+      "accessibility": "Requires travel"
+    }
+  },
+  {
+    "title": "Agricultural Extension Officer",
+    "company": "State Agriculture Department",
+    "location": "Village: Jalgaon",
+    "district": "Jalgaon",
+    "state": "Maharashtra",
+    "type": "Full-time",
+    "salary": {
+      "min": 3,
+      "max": 6,
+      "currency": "INR"
+    },
+    "salaryRange": "₹3L - ₹6L",
+    "category": "Rural",
+    "tags": ["Agriculture", "Extension", "Rural Development", "Field Work"],
+    "description": "Work with farmers to improve agricultural practices, provide technical guidance, and implement government schemes in Jalgaon district.",
+    "requirements": ["12th Pass", "Diploma in Agriculture preferred", "Good communication skills", "Willingness to travel"],
+    "skills": ["Communication", "Agricultural Knowledge", "Field Work", "Problem Solving"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Jalgaon",
+      "block": "Jalgaon Block",
+      "panchayat": "Jalgaon Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Primary School Teacher",
+    "company": "Zilla Parishad School",
+    "location": "Village: Dhule",
+    "district": "Dhule",
+    "state": "Maharashtra",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5L",
+    "category": "Rural",
+    "tags": ["Teaching", "Education", "Rural", "Social Work"],
+    "description": "Teach primary school students (Classes 1-5) in rural government schools in Dhule district, shaping young minds.",
+    "requirements": ["12th Pass", "D.Ed or B.Ed preferred", "Patience", "Love for children"],
+    "skills": ["Teaching", "Communication", "Patience", "Subject Knowledge"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Dhule",
+      "block": "Dhule Block",
+      "panchayat": "Dhule Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Village Health Worker (ASHA)",
+    "company": "National Health Mission",
+    "location": "Village: Pune Rural",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "type": "Part-time",
+    "salary": {
+      "min": 1.5,
+      "max": 3,
+      "currency": "INR"
+    },
+    "salaryRange": "₹1.5L - ₹3L",
+    "category": "Rural",
+    "tags": ["Healthcare", "Community Health", "Rural", "Social Service"],
+    "description": "Provide basic healthcare services, maternal and child health support, and health awareness in rural communities near Pune.",
+    "requirements": ["10th Pass", "Local resident preferred", "Basic health knowledge", "Compassion"],
+    "skills": ["Healthcare", "Communication", "Community Engagement", "Basic Medical Knowledge"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Pune Rural",
+      "block": "Pune Block",
+      "panchayat": "Pune Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Bank Clerk",
+    "company": "Regional Rural Bank",
+    "location": "Village: Jalgaon",
+    "district": "Jalgaon",
+    "state": "Maharashtra",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5L",
+    "category": "Rural",
+    "tags": ["Banking", "Finance", "Rural", "Customer Service"],
+    "description": "Handle banking operations, customer service, and financial transactions in rural bank branches in Jalgaon.",
+    "requirements": ["12th Pass", "Basic computer knowledge", "Numerical ability", "Customer service skills"],
+    "skills": ["Banking", "Customer Service", "Computer Skills", "Numerical Ability"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Jalgaon",
+      "block": "Jalgaon Block",
+      "panchayat": "Jalgaon Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Panchayat Secretary",
+    "company": "Gram Panchayat",
+    "location": "Village: Dhule Rural",
+    "district": "Dhule",
+    "state": "Maharashtra",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4.5L",
+    "category": "Rural",
+    "tags": ["Administration", "Government", "Rural Development", "Public Service"],
+    "description": "Manage panchayat administration, maintain records, coordinate development works, and assist villagers in Dhule district.",
+    "requirements": ["12th Pass", "Basic computer knowledge", "Administrative skills", "Local language proficiency"],
+    "skills": ["Administration", "Record Keeping", "Computer Skills", "Communication"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Dhule Rural",
+      "block": "Dhule Block",
+      "panchayat": "Dhule Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Dairy Farm Manager",
+    "company": "Local Dairy Cooperative",
+    "location": "Village: Pune Rural",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5.5L",
+    "category": "Rural",
+    "tags": ["Agriculture", "Dairy", "Animal Husbandry", "Management"],
+    "description": "Manage daily operations of dairy farm, oversee milk production, animal care, and coordinate with farmers near Pune.",
+    "requirements": ["12th Pass", "Knowledge of animal husbandry", "Management skills", "Physical fitness"],
+    "skills": ["Animal Husbandry", "Management", "Operations", "Problem Solving"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Pune Rural",
+      "block": "Pune Block",
+      "panchayat": "Pune Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Electrician",
+    "company": "State Electricity Board",
+    "location": "Village: Jalgaon",
+    "district": "Jalgaon",
+    "state": "Maharashtra",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4.5L",
+    "category": "Rural",
+    "tags": ["Technical", "Electrical", "Skill-Based", "Field Work"],
+    "description": "Install, maintain, and repair electrical systems in rural areas of Jalgaon, ensure power supply, and handle electrical issues.",
+    "requirements": ["10th Pass", "ITI in Electrical", "Technical skills", "Safety awareness"],
+    "skills": ["Electrical Work", "Technical Skills", "Problem Solving", "Safety"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Jalgaon",
+      "block": "Jalgaon Block",
+      "panchayat": "Jalgaon Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Anganwadi Worker",
+    "company": "Integrated Child Development Services",
+    "location": "Village: Dhule",
+    "district": "Dhule",
+    "state": "Maharashtra",
+    "type": "Part-time",
+    "salary": {
+      "min": 1.2,
+      "max": 2.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹1.2L - ₹2.5L",
+    "category": "Rural",
+    "tags": ["Childcare", "Nutrition", "Education", "Social Work"],
+    "description": "Provide nutrition, health, and early education services to children and pregnant women in rural areas of Dhule.",
+    "requirements": ["10th Pass", "Local resident", "Love for children", "Basic health knowledge"],
+    "skills": ["Childcare", "Nutrition", "Communication", "Record Keeping"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Dhule",
+      "block": "Dhule Block",
+      "panchayat": "Dhule Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Computer Operator",
+    "company": "Cyber Cafe / Government Office",
+    "location": "Village: Pune Rural",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4.5L",
+    "category": "Rural",
+    "tags": ["Computer", "Technology", "Skill-Based", "Data Entry"],
+    "description": "Operate computers, handle data entry, provide computer services, and assist villagers with digital services near Pune.",
+    "requirements": ["12th Pass", "Computer knowledge", "Typing skills", "Basic software"],
+    "skills": ["Computer Skills", "Typing", "Data Entry", "Software Knowledge"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Pune Rural",
+      "block": "Pune Block",
+      "panchayat": "Pune Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Nurse (ANM)",
+    "company": "Primary Health Center",
+    "location": "Village: Jalgaon",
+    "district": "Jalgaon",
+    "state": "Maharashtra",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5L",
+    "category": "Rural",
+    "tags": ["Healthcare", "Nursing", "Medical", "Service"],
+    "description": "Provide nursing care, assist doctors, handle medical procedures, and support healthcare services in rural health centers of Jalgaon.",
+    "requirements": ["12th Pass", "ANM Certificate", "Medical knowledge", "Compassion"],
+    "skills": ["Nursing", "Medical Care", "Communication", "Compassion"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Jalgaon",
+      "block": "Jalgaon Block",
+      "panchayat": "Jalgaon Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Mechanic (Tractor/Auto)",
+    "company": "Self-Employed / Service Center",
+    "location": "Village: Dhule Rural",
+    "district": "Dhule",
+    "state": "Maharashtra",
+    "type": "Full-time",
+    "salary": {
+      "min": 2,
+      "max": 4.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2L - ₹4.5L",
+    "category": "Rural",
+    "tags": ["Technical", "Mechanical", "Skill-Based", "Repair"],
+    "description": "Repair and maintain tractors, motorcycles, and other vehicles used in rural areas of Dhule, provide mechanical services.",
+    "requirements": ["10th Pass", "ITI in Mechanical", "Technical skills", "Problem solving"],
+    "skills": ["Mechanical Repair", "Technical Skills", "Problem Solving", "Customer Service"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Dhule Rural",
+      "block": "Dhule Block",
+      "panchayat": "Dhule Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Tailor",
+    "company": "Self-Employed",
+    "location": "Village: Pune Rural",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "type": "Freelance",
+    "salary": {
+      "min": 1.5,
+      "max": 3.5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹1.5L - ₹3.5L",
+    "category": "Rural",
+    "tags": ["Tailoring", "Skill-Based", "Creative", "Service"],
+    "description": "Provide tailoring services to rural community near Pune, stitch clothes, alter garments, and create custom clothing.",
+    "requirements": ["Tailoring skills", "Creativity", "Customer service", "Attention to detail"],
+    "skills": ["Tailoring", "Sewing", "Design", "Customer Service"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Pune Rural",
+      "block": "Pune Block",
+      "panchayat": "Pune Panchayat",
+      "accessibility": "Nearby"
+    }
+  },
+  {
+    "title": "Rural Marketing Executive",
+    "company": "FMCG Company",
+    "location": "Village: Jalgaon",
+    "district": "Jalgaon",
+    "state": "Maharashtra",
+    "type": "Full-time",
+    "salary": {
+      "min": 2.5,
+      "max": 5,
+      "currency": "INR"
+    },
+    "salaryRange": "₹2.5L - ₹5L",
+    "category": "Rural",
+    "tags": ["Marketing", "Sales", "Rural", "Communication"],
+    "description": "Promote and sell products in rural markets of Jalgaon, build relationships with local retailers, and expand market reach.",
+    "requirements": ["12th Pass", "Sales skills", "Communication", "Travel willingness"],
+    "skills": ["Sales", "Marketing", "Communication", "Relationship Building"],
+    "isRural": true,
+    "ruralDetails": {
+      "village": "Jalgaon",
+      "block": "Jalgaon Block",
+      "panchayat": "Jalgaon Panchayat",
+      "accessibility": "Requires travel"
+    }
+  }
+]
